@@ -99,7 +99,8 @@
                 android:lines="5"
                 android:maxLines="7"
                 android:minLines="5"
-                android:scrollbars="vertical"/>
+                android:scrollbars="vertical"
+                android:gravity="left"/>
 
         </LinearLayout>
 
@@ -116,7 +117,7 @@
             android:text="Pembayaran"
             android:textColor="@android:color/white"
             android:textStyle="bold"
-            android:textSize="23dp"/>
+            android:textSize="23dp" />
     </LinearLayout>
 
 </ScrollView>
