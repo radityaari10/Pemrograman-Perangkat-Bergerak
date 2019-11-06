@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akutansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>HMJ Pengengembangan Pengetahuan</item>
+        <item>UKM KSR PMI</item>
+        <item>UKM PLBS</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+            organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa
+            Jurusan Teknik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan
+            Tinggi.
+        </item>
+        <item>
+            Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+            organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa
+            Jurusan Teknik Sipil untuk melaksanakan kegiatan Tri Dharma Perguruan
+            Tinggi.
+        </item>
+        <item>
+            Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+            organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa
+            Jurusan Teknik Mesin untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.
+        </item>
+        <item>
+            Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mahasiswa
+            Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+            kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan akutansi
+            untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.
+        </item>
+        <item>
+            Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+            organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan
+            Administrasi Bisnis untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.
+        </item>
+        <item>
+            Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disingkat
+            UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak di
+            bidang informasi dan teknologi. UKM Polytechnic Computer Club secara
+            eksplisit terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.
+        </item>
+        <item>
+            UKM Komunitas Seni Polines merupakan satusatunya unit kegiatan mahasiswa di
+            Politeknik Negeri Semarang yang bergerak di bidang Kesenian. Nama UKM Komunitas
+            Seni Polines diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah
+            sebagai satusatunya sarana pembangunan dan penyaluran minat dan bakat
+            Mahasiswa Polines dalam bidang seni dan berorganisasi.
+        </item>
+        <item>
+            UKM Pengembangan Pengetahuan yang disingkat UKM PP merupakan salah satu Unit
+            Kegiatan Mahasiswa di Politeknik Negeri Semarang yang sudah cukup berumur dan
+            dibentuk pada tanggal 12 Mei 1997. Dalam kiprahnya cukup memberikan kontribusi
+            yang tidak bisa dianggap remeh, namun dengan berkembangnya wacana dan idealisme
+            mahasiswa maka kegiatan - kegiatan yang sifatnya sudah spesifik misalnya broad
+            casting (sekarang PLBS) dan computer (sekarang PCC), mencoba memisahkan diri baik
+            dari segi pengelolaan maupun struktural. Hal ini terjadi kira - kira antara tahun
+            1996 sampai dengan 1997, waktu itu pembina UKM Pengembangan Pengetahuan adalah ibu Ririn.
+        </item>
+        <item>
+            KSR PMI Unit Politeknik Negeri Semarang merupakan salah satu Unit Kegiatan Mahasiswa
+            (UKM) di lingkungan Politeknik Negeri Semarang yang berorientasi khusus pada kegiatan
+            tugas-tugas kemanusiaan. UKM KSR didirikan pada tanggal 16 Agustus 1984 dengan nama KSR
+            PMI Unit Undip sesuai nama dengan Politeknik saat itu, yaitu Politeknik Undip. Kemudian
+            nama KSR PMI Unit Undip ini berubah nama menjadi KSR PMI Unit Politeknik Negeri Semarang
+            (KSR PMI Unit Polines)pada tahun 1997.
+        </item>
+        <item>
+            Berdiri pada 13 Februari 1989 dengan nama Polytechnic Limited Broadcasting System (PLBS FM).
+            Mulai saat itu PLBS FM mengudara dengan peralatan yang sederhana mencoba memberikan warna baru
+            khususnya di dalam kampus Politeknik Negeri Semarang. Dengan tag line “Campus Info and Music Line”,
+            PLBS FM berusaha menjadi sumber informasi tentang dunia kampus khususnya Politeknik Negeri Semarang,
+            selain itu juga menjadi sebuah warna baru dalam dunia radio non komersil.
+        </item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/Y9D9NL43/PP.png</item>
+        <item>https://i.postimg.cc/g20Gs2Wt/KSR-PMI.png</item>
+        <item>https://i.postimg.cc/9Qss9mF7/PLBS.png</item>
+    </string-array>
+
+</resources>
