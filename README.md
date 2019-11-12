@@ -2,3 +2,6 @@
 
 # Modul 1 Project 1
 <img src="https://user-images.githubusercontent.com/54885169/68455319-a8fa9600-022d-11ea-86ca-ffc19964a7f2.png" width="200"> 
+
+# UTS_2B_Raditya Ari Pradana_3.34.18.1.20
+<img src="https://user-images.githubusercontent.com/54885169/68714270-29c0e580-05d2-11ea-8034-2a3891249436.png" width="200">
