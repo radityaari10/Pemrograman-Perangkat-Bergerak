@@ -34,4 +34,11 @@
 <img src="https://user-images.githubusercontent.com/54885169/68714270-29c0e580-05d2-11ea-8034-2a3891249436.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/68714494-8e7c4000-05d2-11ea-9502-5f5cbdf2e697.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/68714512-94722100-05d2-11ea-9c88-1c6285124528.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/68714520-976d1180-05d2-11ea-853a-d45f9960d4e0.png" width="150">
 
 ### Pertemuan 12 MyLocalization dengan Profil
-<img src="https://user-images.githubusercontent.com/54885169/69648374-c5a42400-109d-11ea-8fec-3f457405fa07.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69648377-c63cba80-109d-11ea-97d6-6eb55fefab82.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69648379-c6d55100-109d-11ea-82c4-4ab914c8fcb1.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69648381-c6d55100-109d-11ea-87f3-a3f04fe2c330.png" width="150"> 
+<img src="https://user-images.githubusercontent.com/54885169/69648374-c5a42400-109d-11ea-8fec-3f457405fa07.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69648377-c63cba80-109d-11ea-97d6-6eb55fefab82.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69648379-c6d55100-109d-11ea-82c4-4ab914c8fcb1.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69648381-c6d55100-109d-11ea-87f3-a3f04fe2c330.png" width="150">
+
+### Pertemuan 13 Thread MyBackgroundThread
+<img src="https://user-images.githubusercontent.com/54885169/71641819-68bb0f80-2cd4-11ea-8bf3-b676fd2c142e.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641823-6ce72d00-2cd4-11ea-97f2-76e2d82f52b2.png" width="150">
+
+### Pertemuan 14 MyLoader
+<img src="https://user-images.githubusercontent.com/54885169/71641868-0ca4bb00-2cd5-11ea-8938-f8a4415972ce.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641869-0d3d5180-2cd5-11ea-89ea-909bd6f5ebee.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641871-11696f00-2cd5-11ea-87e1-3074cfe6cf7e.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641872-129a9c00-2cd5-11ea-9f44-f58e8c97de71.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641873-14fcf600-2cd5-11ea-98a7-b8f3c1aa898b.png" width="150">
+
