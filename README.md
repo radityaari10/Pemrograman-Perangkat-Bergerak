@@ -1,9 +1,9 @@
 # Pemrograman-Perangkat-Bergerak
 
-# Modul 1 Project 1
+### Modul 1 Project 1
 <img src="https://user-images.githubusercontent.com/54885169/68455319-a8fa9600-022d-11ea-86ca-ffc19964a7f2.png" width="150"> 
 
-# Modul 2 Project 1
+## Modul 2 Project 1
 <img src="https://user-images.githubusercontent.com/54885169/69217737-e18d5e80-0ba1-11ea-91fe-cd9aa7a287e2.PNG" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69217738-e18d5e80-0ba1-11ea-8a6f-0107659ae5a7.PNG" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69217739-e18d5e80-0ba1-11ea-84e8-c3374b253764.PNG" width="150">
 
 # Modul 2 Project 2
