@@ -12,8 +12,20 @@
 ### Modul 3 Project 1
 <img src="https://user-images.githubusercontent.com/54885169/71641610-7a4ee800-2cd1-11ea-929c-7b82f3163332.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641611-7a4ee800-2cd1-11ea-80c1-f3062933f031.png" width="150">
 
+### Modul 4 Project 1 
+<img src="https://user-images.githubusercontent.com/54885169/71641620-dc0f5200-2cd1-11ea-8a45-69df7f671c56.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641621-dc0f5200-2cd1-11ea-8abc-da64fe745ad0.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641622-dca7e880-2cd1-11ea-82ec-6bc34b6d2094.png" width="150">
+
 ### Kuis Menu Donasi Tugas_Modul_4 
 <img src="https://user-images.githubusercontent.com/54885169/69702845-b3b89480-1122-11ea-93d0-f8134b8d98a3.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69702848-b3b89480-1122-11ea-981c-20a5a0f41e59.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69702850-b4512b00-1122-11ea-86b8-3cbcca922a7e.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69702851-b4512b00-1122-11ea-8e16-9238567f4930.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69702852-b4512b00-1122-11ea-8bed-c66a244e23d1.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/69702853-b4e9c180-1122-11ea-8c4d-4ef0291cadfb.png" width="150">
+
+### Modul 5 Project 1
+<img src="https://user-images.githubusercontent.com/54885169/71641637-1bd63980-2cd2-11ea-9d05-5b6701094125.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641638-1c6ed000-2cd2-11ea-9baa-14c3c1d30f0a.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641639-1c6ed000-2cd2-11ea-9f64-35f5ed21a742.png" width="150">
+
+### Pertemuan 6 Project 1 Flexible Fragment
+<img src="https://user-images.githubusercontent.com/54885169/71641659-5cce4e00-2cd2-11ea-98a9-aa8b126b4076.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641660-5d66e480-2cd2-11ea-8df8-e1d37c661f48.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641661-5d66e480-2cd2-11ea-8328-ec2a652ac5cf.png" width="150">
+
+### Pertemuan 8 Project 1 RecyclerView
+<img src="https://user-images.githubusercontent.com/54885169/71641707-e5e58500-2cd2-11ea-8cdc-2683f803ca14.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641708-e67e1b80-2cd2-11ea-97dd-4ecf0343a4e0.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/71641709-e67e1b80-2cd2-11ea-9186-daf729962261.png" width="150">
 
 # UTS_2B_Raditya Ari Pradana_3.34.18.1.20
 <img src="https://user-images.githubusercontent.com/54885169/68714270-29c0e580-05d2-11ea-8034-2a3891249436.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/68714494-8e7c4000-05d2-11ea-9502-5f5cbdf2e697.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/68714512-94722100-05d2-11ea-9c88-1c6285124528.png" width="150"> <img src="https://user-images.githubusercontent.com/54885169/68714520-976d1180-05d2-11ea-853a-d45f9960d4e0.png" width="150">
