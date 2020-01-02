@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588254961356",
+    "firebase_url": "https://daftarbelanja-c8f55.firebaseio.com",
+    "project_id": "daftarbelanja-c8f55",
+    "storage_bucket": "daftarbelanja-c8f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588254961356:android:6e33504db41ac59af26c69",
+        "android_client_info": {
+          "package_name": "com.rapandroid.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588254961356-ghl7ru954aa91j7v8f4ra78u6bsrom77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapandroid.daftarbelanja",
+            "certificate_hash": "7c65082ae648addbc42835d510d486be4f17da4d"
+          }
+        },
+        {
+          "client_id": "588254961356-42v3slv45mjr36777ugqpirap7oqtp4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaW18iLStvzJWDTVfPbJLiDcvsMZBhMsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588254961356-42v3slv45mjr36777ugqpirap7oqtp4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
